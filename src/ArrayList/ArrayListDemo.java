@@ -14,6 +14,9 @@ public class ArrayListDemo {
 		ar.add(400);
 		ar.add(500);
 		System.out.println(ar.size());
+		System.out.println("this is to check Git PUSH and Commit in 2 different repository1");
+		System.out.println("this is to check Git PUSH and Commit in 2 different repository2");
+		System.out.println("this is to check Git PUSH and Commit in 2 different repository3");
 
 	}
 
