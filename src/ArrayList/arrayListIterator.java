@@ -28,6 +28,8 @@ public class arrayListIterator {
 		System.out.println(It.next());
 		}
 		
+		System.out.println("PUSH and Commit in reverse fashion from GitDemo to GitStuff1");
+		System.out.println("PUSH and Commit in reverse fashion from GitDemo to GitStuff2");
 	}
 	
 }
