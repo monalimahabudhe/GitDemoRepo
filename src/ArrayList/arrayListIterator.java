@@ -30,6 +30,13 @@ public class arrayListIterator {
 		
 		System.out.println("PUSH and Commit in reverse fashion from GitDemo to GitStuff1");
 		System.out.println("PUSH and Commit in reverse fashion from GitDemo to GitStuff2");
+		
+		System.out.println("PUSH and Commit in reverse fashion from GitDemo to GitStuff");
+		
+		System.out.println("PUSH and Commit in reverse fashion to add to new Branches123");
+		
+		System.out.println("PUSH and Commit in reverse fashion to add to new Branches987675");
+
 	}
 	
 }

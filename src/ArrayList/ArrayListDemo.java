@@ -19,6 +19,13 @@ public class ArrayListDemo {
 		System.out.println("this is to check Git PUSH and Commit in 2 different repository3");
 		
 		System.out.println("PUSH and Commit in reverse fashion from GitDemo to GitStuff");
+		
+		System.out.println("PUSH and Commit in reverse fashion from GitDemo to GitStuff");
+		
+		System.out.println("PUSH and Commit in reverse fashion to add to new Branches123");
+		
+		System.out.println("PUSH and Commit in reverse fashion to add to new Branches987675");
+
 
 	}
 
